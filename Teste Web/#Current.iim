@@ -1,0 +1,19 @@
+﻿VERSION BUILD=6011206 RECORDER=CR
+URL GOTO=http://127.0.0.1:8080/a.html
+REFRESH
+TAG POS=1 TYPE=A ATTR=TXT:do<SP>external<SP>links<SP>work?
+BACK
+TAG POS=1 TYPE=A ATTR=TXT:do<SP>simple<SP>relative<SP>internal<SP>links<SP>work?
+TAG POS=1 TYPE=A ATTR=TXT:back
+TAG POS=1 TYPE=A ATTR=TXT:do<SP>general<SP>relative<SP>links<SP>work
+TAG POS=1 TYPE=A ATTR=TXT:back
+TAG POS=1 TYPE=A ATTR=TXT:do<SP>simple<SP>absolute<SP>links<SP>work
+TAG POS=1 TYPE=A ATTR=TXT:back
+TAG POS=1 TYPE=A ATTR=TXT:do<SP>general<SP>absolute<SP>links<SP>work
+TAG POS=1 TYPE=A ATTR=TXT:back
+TAG POS=1 TYPE=A ATTR=TXT:do<SP>URLs<SP>with<SP>spaces<SP>work
+TAG POS=1 TYPE=A ATTR=TXT:back
+TAG POS=1 TYPE=A ATTR=TXT:do<SP>URLs<SP>with<SP>%20<SP>work
+TAG POS=1 TYPE=A ATTR=TXT:back
+TAG POS=1 TYPE=A ATTR=TXT:do<SP>TXT<SP>files<SP>work
+BACK

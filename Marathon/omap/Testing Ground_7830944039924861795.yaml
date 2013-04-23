@@ -1,0 +1,60 @@
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: name, value: My combo}
+    - {method: equals, name: type, value: JComboBox}
+    generalProperties:
+    - {name: position, value: '[x=724,y=428]'}
+    - {name: type, value: JComboBox}
+    - {name: name, value: My combo}
+    - {name: fieldName, value: comboBox}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JComboBox}
+    - {name: size, value: '[width=153,height=25]'}
+    - {name: layoutData.x, value: '1.0'}
+    - {name: layoutData.y, value: '0.0'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JComboBox}
+    - {name: actionCommand, value: comboBoxChanged}
+    - {name: component.class.name, value: javax.swing.JComboBox}
+    name: My combo
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: button}
+    - {method: equals, name: type, value: JButton}
+    generalProperties:
+    - {name: position, value: '[x=724,y=453]'}
+    - {name: accessibleName, value: Start}
+    - {name: cText, value: Start}
+    - {name: type, value: JButton}
+    - {name: fieldName, value: button}
+    - {name: accessibleContext.accessibleName, value: Start}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JButton}
+    - {name: size, value: '[width=153,height=26]'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JButton}
+    - {name: actionCommand, value: Start}
+    - {name: component.class.name, value: javax.swing.JButton}
+    - {name: buttonText, value: Start}
+    name: Start
+- !!net.sourceforge.marathon.objectmap.OMapComponent
+    componentRecognitionProperties:
+    - {method: equals, name: fieldName, value: label}
+    - {method: equals, name: type, value: JLabel}
+    generalProperties:
+    - {name: position, value: '[x=724,y=403]'}
+    - {name: accessibleName, value: '11'}
+    - {name: cText, value: '11'}
+    - {name: type, value: JLabel}
+    - {name: fieldName, value: label}
+    - {name: accessibleContext.accessibleName, value: '11'}
+    - {name: enabled, value: 'true'}
+    - {name: instanceOf, value: javax.swing.JLabel}
+    - {name: size, value: '[width=153,height=25]'}
+    - {name: layoutData.x, value: '0.0'}
+    - {name: layoutData.y, value: '0.0'}
+    - {name: labelText, value: 'lbl:11'}
+    - {name: indexOfType, value: '0'}
+    - {name: component.class.simpleName, value: JLabel}
+    - {name: component.class.name, value: javax.swing.JLabel}
+    name: lbl:4
